@@ -16,6 +16,24 @@ An interactive, user-friendly web application featuring a complex pizza ordering
 - **Testing:** Cypress
 - **Deployment:** Vercel
 
+## 📸 Ekran Görüntüleri / Screenshots
+
+<p align="center">
+  <img src="public/assets/1.jpeg" width="48%" alt="Ekran Görüntüsü 1" />
+  <img src="public/assets/2.jpeg" width="48%" alt="Ekran Görüntüsü 2" />
+</p>
+
+<p align="center">
+  <img src="public/assets/3.jpeg" width="48%" alt="Ekran Görüntüsü 3" />
+  <img src="public/assets/4.jpeg" width="48%" alt="Ekran Görüntüsü 4" />
+</p>
+
+<p align="center">
+  <img src="public/assets/5.jpeg" width="48%" alt="Ekran Görüntüsü 5" />
+  <img src="public/assets/6.jpeg" width="48%" alt="Ekran Görüntüsü 6" />
+</p>
+
+
 ## ⚙️ Getting Started
 
 ### Prerequisites
